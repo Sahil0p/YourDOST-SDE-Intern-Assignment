@@ -42,7 +42,7 @@ cd YourDOST-Assignment
 | 🌟 Part                                        | ☁️ Platform | 🔗 Live Link                                                                                                                                                                                                              |
 | ---------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 💻 **Frontend**                                | 🌐 Netlify  | [View Deployed App](https://yourdost-frontend-userdirectory.netlify.app/)                                                                                                                                                 |
-| 📮 **Postman API Collection (Backend - ToDo)** | 📬 Postman  | [API Collection](https://sahilahmed0029-3594081.postman.co/workspace/Sahil-Ahmed's-Workspace~507292b8-beec-4de7-81da-d9594af9042c/collection/47691689-6736a4d4-595e-42b9-9ec4-7cd8ddda43d1?action=share&creator=47691689) |
+| 📮 **Postman API Collection (Backend - ToDo)** | 📬 Postman  | [API Collection](https://sahilahmed0029-3594081.postman.co/workspace/Sahil-Ahmed's-Workspace~507292b8-beec-4de7-81da-d9594af9042c/collection/47691689-0aa2383b-f021-4bda-9dc9-c04cc4c49e1e?action=share&creator=47691689) |
 
 
 ---
