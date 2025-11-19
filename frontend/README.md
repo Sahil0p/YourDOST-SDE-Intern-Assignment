@@ -105,10 +105,3 @@ GET https://reqres.in/api/users?page={page}
 | 📱 **Responsive UI**  | Works seamlessly on mobile, tablet, desktop      |
 
 ---
-
-
-## 📸 Screenshots
-### 🧑 Home Page - Data fetched from API  Link
-> ![](./Screenshots/homePage.png)
-### 🧑 Search Bar - Sorting & Filter
-> ![](./Screenshots/sortFilter.png)
