@@ -24,7 +24,7 @@ router.get("/", (req, res) => {
 });
 
 // ✅ POST /todos
-router.post("/", validateTodo, (req, res) => {
+router.post("/", validateTodo, (req, res)=> {
   const todos = readTodos();
   const newTodo = {
     id: Date.now(),

@@ -15,7 +15,7 @@ const UserDirectory = () => {
   const [loading, setLoading] = useState(false);
 
   // Fetch page data
-  useEffect(() => {
+  useEffect(()=>{
     let mounted = true;
     const loadUsers = async () => {
       setLoading(true);

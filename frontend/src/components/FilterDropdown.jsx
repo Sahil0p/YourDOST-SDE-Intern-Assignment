@@ -1,4 +1,4 @@
-const FilterDropdown = ({ filterBy, setFilterBy }) => (
+const FilterDropdown = ({ filterBy, setFilterBy })=>(
     <select
       value={filterBy}
       onChange={(e) => setFilterBy(e.target.value)}

@@ -106,8 +106,9 @@ GET https://reqres.in/api/users?page={page}
 
 ---
 
+
 ## 📸 Screenshots
-### 🧑 Home Page - Data fetched from API
+### 🧑 Home Page - Data fetched from API  Link
 > ![](./Screenshots/homepage.png)
 ### 🧑 Search Bar - Sorting & Filter
 > ![](./Screenshots/sortfilter.png)

@@ -188,6 +188,7 @@ http://localhost:5000/todos
 
 ### ✅ DELETE /todos/:id
 ```
+
 {
   "message": "🗑️ Todo deleted successfully!",
   "deletedTodo": {

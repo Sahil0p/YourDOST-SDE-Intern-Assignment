@@ -1,4 +1,4 @@
-const Pagination = ({ currentPage, totalPages, onPageChange }) => (
+const Pagination = ({currentPage, totalPages, onPageChange}) => (
     <div className="flex justify-center gap-2 my-4">
       <button
         className="px-3 py-1 bg-gray-200 rounded disabled:opacity-50"

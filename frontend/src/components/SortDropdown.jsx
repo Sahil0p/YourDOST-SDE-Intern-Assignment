@@ -1,16 +1,4 @@
-// const SortDropdown = ({ sortBy, setSortBy }) => (
-//     <select
-//       value={sortBy}
-//       onChange={(e) => setSortBy(e.target.value)}
-//       className="border p-2 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
-//     >
-//       <option value="">Sort by...</option>
-//       <option value="first_name">First Name</option>
-//       <option value="email">Email</option>
-//     </select>
-//   );
-//   export default SortDropdown;
-// SortDropdown.jsx
+
 import React from "react";
 
 /**

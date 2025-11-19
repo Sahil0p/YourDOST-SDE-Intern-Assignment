@@ -22,7 +22,6 @@ secondLargestUnique([10, 5, 10])           // → 5
 secondLargestUnique([1, 3])                // → 1
 secondLargestUnique([])                    // → -1
 ```
-
 ---
 
 ## Approach

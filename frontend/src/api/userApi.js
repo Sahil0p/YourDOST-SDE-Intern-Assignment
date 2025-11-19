@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API_URL = "https://reqres.in/api/users";
 
-export const fetchUsers = async (page = 1) => {
+export const fetchUsers = async (page = 1)=>{
   try {
     const response = await axios.get(`${API_URL}?page=${page}`, {
       headers: {

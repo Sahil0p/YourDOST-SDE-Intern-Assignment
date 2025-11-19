@@ -1,4 +1,4 @@
-const SearchBar = ({ query, setQuery }) => (
+const SearchBar = ({query, setQuery}) => (
     <input
       type="text"
       placeholder="Search by name or email..."
